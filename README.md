@@ -1,38 +1,17 @@
-# create-svelte
+# Cloud Creations
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+- [Cloud Creations](#cloud-creations)
+  - [Background](#background)
+  - [Clocks](#clocks)
+    - [Clock 1 - Grid](#clock-1---grid)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Background
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+On New Years Eve, I couldn't find a fun clock to watch the countdown so I got bored and created a clock. It was so much fun to build and design I thought it would be fun to create more. This is also just to learn some easy Svelte Kit stuff.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Clocks
 
-## Developing
+### Clock 1 - Grid
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This is the first clock I made. I thought it came out nice and was nice. I based it off a square grid and just had fun filling it in different places.
